@@ -1,1 +1,2 @@
-# FaceDetection-Menggunakan-Haar-Cascade-Classifier
+# FaceDetection Menggunakan Algoritma HaarCascadeClassifier
+
