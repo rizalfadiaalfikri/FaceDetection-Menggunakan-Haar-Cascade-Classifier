@@ -16,5 +16,9 @@ Berikut merupakan langkah - langkah untuk menggunakan algoritma Haar Cascade Cla
 ### Test
 - Test menggunakan gambar
   - lena.jpg
-    - ![python-project-2](https://user-images.githubusercontent.com/75767390/154016828-7e7223f9-0130-441d-894e-86c4533f20d9.PNG)
+  
+    ![python-project-2](https://user-images.githubusercontent.com/75767390/154016828-7e7223f9-0130-441d-894e-86c4533f20d9.PNG)
 
+  - family.jpg
+
+    ![python-project-1](https://user-images.githubusercontent.com/75767390/154017212-d613499c-0f40-4e40-8ce3-2698c38f98e0.PNG)
