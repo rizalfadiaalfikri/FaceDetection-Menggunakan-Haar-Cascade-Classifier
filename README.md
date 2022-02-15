@@ -11,7 +11,7 @@ Berikut merupakan langkah - langkah untuk menggunakan algoritma Haar Cascade Cla
 - Visual Studio Code
 &nbsp;&nbsp;<p>Visual Studio Code adalah editor source code yang dikembangkan oleh Microsoft untuk Windows, Linux dan MacOS. Ini termasuk dukungan untuk debugging, GIT Controlyang disematkan, penyorotan sintaks, penyelesaian kode cerdas, cuplikan, dan kode refactoring. Hal ini juga dapat disesuaikan, sehingga pengguna dapat mengubah tema editor, shortcut keyboard, dan preferensi.Visual Studio Code gratis dan open-source. File instalasi Visual Studio Code dapat diunduh di <a href="https://code.visualstudio.com/">tautan ini</a>.</p>
 - File haarcascade_frontalface_default.xml
-&nbsp;nbsp;<p>File tersebut merupakan file yang berisi hasil training wajah</p>
+&nbsp;&nbsp;<p>File tersebut merupakan file yang berisi hasil training wajah</p>
 
 ### Test
 - Test menggunakan gambar
