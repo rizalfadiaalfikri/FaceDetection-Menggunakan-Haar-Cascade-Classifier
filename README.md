@@ -4,6 +4,6 @@ Algoritma Haar Cascade merupakan salah satu model machine learning yang kerap ka
 Berikut merupakan langkah - langkah untuk menggunakan algoritma Haar Cascade Classifier menggunakan bahasa pemrograman Python
 
 ### 1. Requirements
-- Anaconda\n
-  Anaconda adalah paket distribusi Python dari Continuum Analytics yang berisi paket Python ditambah beberapa paket tambahan untuk keperluan pemrograman data science, matematika   hingga teknik dalam satu distribusi platform yang user friendly. File instalasi Anaconda dapat diunduh di <a href="https://www.anaconda.com/products/individual">tautan ini</a>. 
+- Anaconda
+&nbsp;&nbsp;<p>Anaconda adalah paket distribusi Python dari Continuum Analytics yang berisi paket Python ditambah beberapa paket tambahan untuk keperluan pemrograman data science, matematika   hingga teknik dalam satu distribusi platform yang user friendly. File instalasi Anaconda dapat diunduh di <a href="https://www.anaconda.com/products/individual">tautan ini</a>.</p> 
   
