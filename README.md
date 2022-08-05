@@ -23,4 +23,4 @@ Algoritma Haar Cascade merupakan salah satu model machine learning yang kerap ka
     ![python-project-1](https://user-images.githubusercontent.com/75767390/154017212-d613499c-0f40-4e40-8ce3-2698c38f98e0.PNG)
     
 - Test menggunakan webcam
-  ![python-project-3](https://user-images.githubusercontent.com/75767390/182983168-b65441d3-9149-450f-bb1b-c29632baebf1.mp4)
+  https://user-images.githubusercontent.com/75767390/182983168-b65441d3-9149-450f-bb1b-c29632baebf1.mp4
